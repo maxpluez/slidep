@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Slide</string>
+    <string-array name="board_material">
+        <item>wood</item>
+        <item>glass</item>
+        <item>iron</item>
+        <item>DIYSurface</item>
+    </string-array>
+
+    <string-array name="slide_what">
+        <item>block</item>
+        <item>ball</item>
+    </string-array>
+
+    <string name="title_activity_present">Present</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

@@ -1,4 +1,5 @@
 # Java files can be found under /app/src/main/java
+# XML files can be found under /app/src/main/res/layout/
 
 (current branch: 1.0.1)
 
